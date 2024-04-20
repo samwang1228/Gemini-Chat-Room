@@ -36,5 +36,9 @@ ChatGPT 的出現引爆了一連續的生成式 AI 應用，也帶出了大型�
 ➤ 王紹丞 | 台科大資工碩士生
 
 研究領域為非揮發性記憶體但打工會用到一些大型語言模型（LLM）的窮學生。
+ 
 
-■ 常見問題
+### demo
+<img src="img/demo1.png" alt="圖片1描述" style="max-width: 100%; max-height: 100%;">
+<img src="img/demo2.png" alt="圖片2描述" style="max-width: 100%; max-height: 100%;">
+<img src="img/demo3.png" alt="圖片3描述" style="max-width: 100%; max-height: 100%;">
